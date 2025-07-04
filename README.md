@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-Hi there! I'm **Elen Grigoryan**, a passionate developer and Computer Science student at the 🇫🇷 French University in Armenia.
+Hi there! I'm **Elen Grigoryan**, a passionate developer and Computer Science student at the French University in Armenia.
 
 ## 👩‍💻 What I Do
 
@@ -13,10 +13,10 @@ Hi there! I'm **Elen Grigoryan**, a passionate developer and Computer Science st
 
 ## 🌍 Languages I Speak(My first Passion)
 
-- 🇦🇲 **Armenian** (native)
-- 🇬🇧 **English**
-- 🇫🇷 **French**
-- 🖥️ **Programming Languages** are my second passion!
+- **Armenian** (native)
+- **English**
+- **French**
+- **Programming Languages** are my second passion!
 
 ## 🎯 My Mission
 
